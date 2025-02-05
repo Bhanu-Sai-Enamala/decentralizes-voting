@@ -33,8 +33,8 @@ The smart contract implements all the required functionalities mentioned in the 
 
 # **Cloning The Repository**
 
-1. Run `git clone https://github.com/your-repo-name.git` from the terminal to cloen the repository to the local system.
-2. cd `gghvgu`  and `npm install`to starting working inside the repo. Preferably use VScode to work on the repository.
+1. Run `git clone https://github.com/Bhanu-Sai-Enamala/decentralizes-voting.git` from the terminal to clone the repository to the local system.
+2. Run `npm install` from voting-contract directory once and then again from voting-frontend directory ocne to install all the dependencies. Preferably use VScode to work on the repository.
 
 
 # **Deploying the contract and storing the contract address**
